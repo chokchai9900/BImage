@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucKC6ud8fgCwwQhTFBNSoi3gwW1hil0eqlI78iLhRI8vL6zI8ojXbCa8EwPBDFh/sQ0S4L1Yv0z8qoOYQywQMw==",
+  "success": true,
+  "projectFilePath": "D:\\App\\image\\BImage\\DependencyServiceDemos.iOS\\DependencyServiceDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\xam.plugin.screenshot\\2.0.1.5\\xam.plugin.screenshot.2.0.1.5.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\xamarin.plugin.imageedit\\1.0.0\\xamarin.plugin.imageedit.1.0.0.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\zxing.net.mobile\\3.0.0-beta5\\zxing.net.mobile.3.0.0-beta5.nupkg.sha512",
+    "C:\\Users\\BloodRainz\\.nuget\\packages\\zxing.net.mobile.forms\\3.0.0-beta5\\zxing.net.mobile.forms.3.0.0-beta5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+            x:Class="DependencyServiceDemos.MainPage"
+            xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms">
+    <ContentPage>
+            <StackLayout>
+            <Button Text="OpenCamara" Clicked="OpenCamara"></Button>
+            <Button Text="OpenFlash" Clicked="OpenFlash"></Button>
+            <Button Text="ScreenShot" Clicked="OpenScreenShot"></Button>
+            <Button Text="ScreenShotAndSave" Clicked="ScreenShotAndSave"></Button>
+            <Label Text="Clickme" x:Name="label"></Label>
+            <Image x:Name="yourImage"></Image>
+        </StackLayout>
+            <!--<Grid VerticalOptions="CenterAndExpand"
+              HorizontalOptions="CenterAndExpand">
+                <zxing:ZXingScannerView x:Name="scanView"
+                                        OnScanResult="scanView_OnScanResult"
+                                        IsScanning="True"
+                                        IsAnalyzing="True"
+                                        VerticalOptions="FillAndExpand"
+                                        HorizontalOptions="FillAndExpand" />
+                <zxing:ZXingDefaultOverlay ShowFlashButton="True">
+                    <Button x:Name="browsePhoto"
+                        Text="browse "
+                        VerticalOptions="Start"
+                        HorizontalOptions="Start"
+                        Clicked="OnPickPhotoButtonClicked" />
+                </zxing:ZXingDefaultOverlay>
+            </Grid>-->
+    </ContentPage>
+</TabbedPage>
